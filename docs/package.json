@@ -1,0 +1,23 @@
+{
+  "name": "@ylkj-ui/docs",
+  "version": "1.0.0",
+  "description": "组件库文档",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "keywords": [],
+  "author": "zhw",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-beta.5"
+  },
+  "dependencies": {
+    "@vitepress-demo-preview/component": "^2.3.2",
+    "@vitepress-demo-preview/plugin": "^1.2.1",
+    "@ylkj-ui/ylkj-ui": "workspace:^",
+    "element-plus": "^2.3.8"
+  }
+}

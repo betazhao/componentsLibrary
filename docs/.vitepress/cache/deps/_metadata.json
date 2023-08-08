@@ -1,0 +1,74 @@
+{
+  "hash": "360d6b90",
+  "browserHash": "8c8af120",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "cd7354c9",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "72ab0a17",
+      "needsInterop": false
+    },
+    "@vitepress-demo-preview/component": {
+      "src": "../../../../node_modules/.pnpm/@vitepress-demo-preview+component@2.3.2_vitepress@1.0.0-beta.5_vue@3.3.4/node_modules/@vitepress-demo-preview/component/dist/preview-component.js",
+      "file": "@vitepress-demo-preview_component.js",
+      "fileHash": "c205b294",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../../node_modules/.pnpm/element-plus@2.3.8_vue@3.3.4/node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "62539d9c",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../../../node_modules/.pnpm/three@0.155.0/node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "307ab90e",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls": {
+      "src": "../../../../node_modules/.pnpm/three@0.155.0/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls.js",
+      "fileHash": "7890e67d",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/GLTFLoader.js": {
+      "src": "../../../../node_modules/.pnpm/three@0.155.0/node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "three_examples_jsm_loaders_GLTFLoader__js.js",
+      "fileHash": "3c17b74e",
+      "needsInterop": false
+    },
+    "mitt": {
+      "src": "../../../../node_modules/.pnpm/mitt@3.0.1/node_modules/mitt/dist/mitt.mjs",
+      "file": "mitt.js",
+      "fileHash": "09e893c6",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/GLTFLoader": {
+      "src": "../../../../node_modules/.pnpm/three@0.155.0/node_modules/three/examples/jsm/loaders/GLTFLoader.js",
+      "file": "three_examples_jsm_loaders_GLTFLoader.js",
+      "fileHash": "d24393f5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3I5FGFVQ": {
+      "file": "chunk-3I5FGFVQ.js"
+    },
+    "chunk-C4OAENTU": {
+      "file": "chunk-C4OAENTU.js"
+    },
+    "chunk-M6SICVX6": {
+      "file": "chunk-M6SICVX6.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}

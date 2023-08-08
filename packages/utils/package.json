@@ -1,0 +1,15 @@
+{
+  "name": "@ylkj-ui/utils",
+  "version": "1.0.0",
+  "description": "通用工具函数",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhw",
+  "license": "ISC",
+  "dependencies": {
+    "mitt": "^3.0.1"
+  }
+}

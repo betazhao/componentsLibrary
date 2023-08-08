@@ -1,0 +1,22 @@
+{
+  "name": "@ylkj-ui/ylkj-ui",
+  "version": "1.0.0",
+  "description": "组件库入口",
+  "main": "index.ts",
+  "scripts": {
+    "build": "rimraf ../../lib && vue-tsc --noEmit && vite build"
+  },
+  "keywords": [],
+  "author": "zhw",
+  "license": "ISC",
+  "dependencies": {
+    "@ylkj-ui/foo": "workspace:^1.0.0",
+    "@ylkj-ui/rowspan": "workspace:^",
+    "@ylkj-ui/shader-circel-diffusion": "workspace:^",
+    "@ylkj-ui/zhw": "workspace:^"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.1",
+    "vite-plugin-dts": "^3.3.1"
+  }
+}
